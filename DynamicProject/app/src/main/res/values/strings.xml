@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DynamicProject</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_search_location">search_location</string>
+    <string name="title_activity_search_type">Search_type</string>
+
+    <string-array name="sensortype">
+        <item>Accelerometer</item>
+        <item>Magnetic</item>
+        <item>Thermometer</item>
+        <item>Gyroscope</item>
+        <item>Light</item>
+        <item>Proximity</item>
+        <item>Pressure</item>
+    </string-array>
+
+    <string-array name="radius">
+        <item>200m</item>
+        <item>1km</item>
+        <item>10km</item>
+        <item>1000km</item>
+        <item>5000km</item>
+        <item>+</item>
+    </string-array>
+</resources>
